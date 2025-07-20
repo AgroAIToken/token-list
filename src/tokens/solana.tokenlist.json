@@ -1,9 +1,15 @@
 {
   "chainId": 101,
-  "address": "AtN5R9h8KSrrZaEFvog3HjDucoM13emn4J5ZzoCKJSC1",
+  "address": "9xLmDRyD4raWG5s5ywTxiYoS7D3spaWaR89JgGBNxobQ",
   "symbol": "AGROAI",
-  "name": "Agro AI",
-  "decimals": 6,
-  "logoURI": "https://agroaitoken.github.io/AgroAI/",
-  "tags": ["meme", "agriculture", "ai"]
+  "name": "AgroAI",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/AgroAIToken/AgroAI/main/media/logo.png",
+  "tags": ["utility-token", "agriculture", "AI"],
+  "extensions": {
+    "website": "https://AgroAIToken.github.io/AgroAI",
+    "whitepaper": "https://github.com/AgroAIToken/AgroAI/blob/main/docs/whitepaper.md",
+    "twitter": "https://twitter.com/AgroAIToken",
+    "github": "https://github.com/AgroAIToken/AgroAI"
+  }
 }
